@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket installation files
 - Hidi SQL
 
-<h2>Installation Steps</h2>
+<h2>Virtual Machine Setup</h2>
 
 
 <p>
