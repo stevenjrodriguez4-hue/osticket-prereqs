@@ -26,7 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img width="1037" height="728" alt="image" src="https://github.com/user-attachments/assets/60eec28b-3375-4805-9594-3207390d901a" />
+<img width="968" height="575" alt="image" src="https://github.com/user-attachments/assets/1067b02f-76bc-4b56-8ed7-bfec0c2250b8" />
+
 </p>
 <p>
 I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows Server 2025 Azure Edition as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup.
