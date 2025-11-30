@@ -40,7 +40,7 @@ I created a new Resource Group named osticket in Microsoft Azure. After that, I 
 
 </p>
 <p>
-To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public IP address from the Azure VM overview page, opened the Remote Desktop app on my computer, typed in that IP, and connected to the server.
+To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public IP address from the Azure VM overview page, opened the Remote Desktop app on my computer, typed in that IP, and connected to the server. After that, we’ll cover the files needed to install osTicket.
 <br />
 
 <p>
