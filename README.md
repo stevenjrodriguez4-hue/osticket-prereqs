@@ -23,10 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machines
-- Remote Desktop (RDP)
-- 
-- Item 4
-- Item 5
+- osTicket installation files
+- Hidi SQL
 
 <h2>Installation Steps</h2>
 
