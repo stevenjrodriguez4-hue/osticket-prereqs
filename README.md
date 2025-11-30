@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Hidi SQL
 
 <h2>Installation Steps</h2>
+<img width="1037" height="728" alt="image" src="https://github.com/user-attachments/assets/ae1bd2b0-beb1-4e1c-b4cf-7a0b45731c5d" />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
