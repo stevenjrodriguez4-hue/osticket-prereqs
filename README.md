@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows Server 2025 Azure Edition as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup. Next we will be connecting to the VM using Remote Desktop (RDP) using the public IP.
 </p>
 <br />
-
+<h2>Connecting to the VM (RDP)</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
