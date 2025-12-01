@@ -26,9 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img width="829" height="582" alt="Screenshot 2025-11-30 111705" src="https://github.com/user-attachments/assets/feb4bcb5-4e35-42f4-b89b-c8034aa99537" />
-
-
+<img width="776" height="476" alt="Screenshot 2025-11-30 181319" src="https://github.com/user-attachments/assets/3ffa3332-99f5-4291-ad76-00455ceb5695" />
 </p>
 <p>
 I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows 11 pro as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup. Next we will be connecting to the VM using Remote Desktop (RDP) using the public IP.
