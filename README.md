@@ -41,7 +41,8 @@ To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="765" height="467" alt="Screenshot 2025-12-01 023843" src="https://github.com/user-attachments/assets/adda132d-1f4f-4312-87ab-d0bf894ac799" />
+
 </p>
 <p>
 To run osTicket on Windows 11, we need to enable IIS and CGI/FastCGI so the system can act as a web server and run PHP files. You can turn these features on by going to Control Panel → Programs → Turn Windows features on or off, which prepares Windows to properly host and load osTicket.
