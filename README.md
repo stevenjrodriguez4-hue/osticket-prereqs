@@ -39,7 +39,7 @@ I created a new Resource Group named osticket in Microsoft Azure. After that, I 
 <p>
 To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public IP address from the Azure VM overview page, opened the Remote Desktop app on my computer, typed in that IP, and connected to the VM. After that, we’ll cover settings that need to be enbaled on the VM for osTicket and the files needed to install it.
 <br />
-
+<h2>Enabling IIS for CGI</h2>
 <p>
 <img width="765" height="467" alt="Screenshot 2025-12-01 023843" src="https://github.com/user-attachments/assets/adda132d-1f4f-4312-87ab-d0bf894ac799" />
 
