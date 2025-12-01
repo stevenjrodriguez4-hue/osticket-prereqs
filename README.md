@@ -68,12 +68,11 @@ Once PHP manger is done installing we can proceed to downloading the Rewrite Mod
 Before continuing, we need a place to extract the PHP files. Go to your C:\ drive and create a new folder named PHP. We’ll use this folder to unzip the PHP package from the installation files so it’s ready for IIS to use during the osTicket setup.
 </p>
 <br />
-<h2>Virtual Machine Setup</h2>
 <p>
-<img width="776" height="476" alt="Screenshot 2025-11-30 181319" src="https://github.com/user-attachments/assets/3ffa3332-99f5-4291-ad76-00455ceb5695" />
+<img width="471" height="397" alt="image" src="https://github.com/user-attachments/assets/c4e1fd23-5118-4d97-a185-7d81da6496ae" />
 </p>
 <p>
-I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows 11 pro as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup. Next we will be connecting to the VM using Remote Desktop (RDP) using the public IP.
+We’re almost done, so before the final step, we need to install VC_redist.x86, which adds the necessary Visual C++ components that PHP and osTicket rely on.
 </p>
 <br />
 <h2>Connecting to the VM (RDP)</h2>
