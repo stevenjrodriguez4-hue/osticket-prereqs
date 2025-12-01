@@ -74,7 +74,7 @@ Before continuing, we need a place to extract the PHP files. Go to your C:\ driv
 We’re almost done, so before the final step, we need to install VC_redist.x86, which adds the necessary Visual C++ components that PHP and osTicket rely on.
 <br />
 <br />
-<h2>Connecting to the VM (RDP)</h2>
+
 <p>
 <img width="485" height="380" alt="image" src="https://github.com/user-attachments/assets/93a534e4-49ad-4f25-9f63-21243ed27d54" />
 </p>
