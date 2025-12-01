@@ -76,10 +76,10 @@ We’re almost done, so before the final step, we need to install VC_redist.x86,
 <br />
 <h2>Connecting to the VM (RDP)</h2>
 <p>
-<img width="478" height="284" alt="Screenshot 2025-11-30 181645" src="https://github.com/user-attachments/assets/566f3d20-976a-4085-828a-0e2bd32abd26" />
+<img width="485" height="380" alt="image" src="https://github.com/user-attachments/assets/93a534e4-49ad-4f25-9f63-21243ed27d54" />
 </p>
 <p>
-To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public IP address from the Azure VM overview page, opened the Remote Desktop app on my computer, typed in that IP, and connected to the VM. After that, we’ll cover settings that need to be enbaled on the VM for osTicket and the files needed to install it.
+The last step in the setup is installing MySQL, which will be used to store all of osTicket’s data, including tickets, users, and system settings.
 <br />
 <h2>Enabling IIS for CGI</h2>
 <p>
