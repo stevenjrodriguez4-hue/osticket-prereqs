@@ -56,10 +56,10 @@ Next, we’ll download the files needed to set up osTicket, here is the link htt
 </p>
 <br />
 <p>
-<img width="485" height="383" alt="image" src="https://github.com/user-attachments/assets/1e4649c9-e297-4631-b3ab-f3fb375ae90c" />
+<img width="485" height="383" alt="image" src="https://github.com/user-attachments/assets/cb00f76f-c517-43a4-b80d-561ab4b1b0be" />
 </p>
 <p>
-To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public IP address from the Azure VM overview page, opened the Remote Desktop app on my computer, typed in that IP, and connected to the VM. After that, we’ll cover settings that need to be enbaled on the VM for osTicket and the files needed to install it.
+Once PHP manger is done installing we can proceed to downloading the Rewrite Module.
 <br />
 <h2>Enabling IIS for CGI</h2>
 <p>
