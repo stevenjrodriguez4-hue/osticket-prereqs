@@ -48,10 +48,10 @@ To run osTicket on Windows 11, we need to enable IIS and CGI/FastCGI so the syst
 <br />
 <h2>Files needed for osTicket</h2>
 <p>
-<img width="776" height="476" alt="Screenshot 2025-11-30 181319" src="https://github.com/user-attachments/assets/3ffa3332-99f5-4291-ad76-00455ceb5695" />
+<img width="491" height="407" alt="image" src="https://github.com/user-attachments/assets/8e7d2416-4c08-42e2-976a-fe80ed32161a" />
 </p>
 <p>
-Next, we’ll download the files needed to set up osTicket, here is the link https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0. Before installing anything else, we’ll start by installing PHP Manager, since osTicket relies on PHP to run its web pages.
+Next, we’ll download the files needed to set up osTicket, here is the link https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0. Before installing anything else, we’ll start by installing PHP Manager for IIS, since osTicket relies on PHP to run its web pages.
 </p>
 <br />
 <h2>Connecting to the VM (RDP)</h2>
