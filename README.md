@@ -100,7 +100,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  We’re almost done, so before the final step, we need to install <strong>VC_redist.x86</strong>, which adds the necessary Visual C++ components that PHP and osTicket rely on. Once that is done we will launch the MySQL Configure Wizzard and use the stadard configuration.
+  We’re almost done, so before the final step, we need to install <strong>VC_redist.x86</strong>, which adds the necessary Visual C++ components that PHP and osTicket rely on. Once that is done we will launch the MySQL Wizzard and use the stadard configuration.
 </p>
 
 <br>
