@@ -34,8 +34,7 @@ I created a new Resource Group named osticket in Microsoft Azure. After that, I 
 <br />
 <h2>Connecting to the VM (RDP)</h2>
 <p>
-<img width="521" height="305" alt="Screenshot 2025-11-30 114639" src="https://github.com/user-attachments/assets/88aed910-1685-4138-8c2b-d2985d02fad7" />
-
+<img width="478" height="284" alt="Screenshot 2025-11-30 181645" src="https://github.com/user-attachments/assets/566f3d20-976a-4085-828a-0e2bd32abd26" />
 </p>
 <p>
 To connect to my VM, I used Remote Desktop Protocol (RDP). I grabbed the public IP address from the Azure VM overview page, opened the Remote Desktop app on my computer, typed in that IP, and connected to the VM. After that, we’ll cover settings that need to be enbaled on the VM for osTicket and the files needed to install it.
