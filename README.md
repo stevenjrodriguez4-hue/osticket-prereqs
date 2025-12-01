@@ -59,9 +59,8 @@ Next, we’ll download the files needed to set up osTicket, here is the link htt
 <img width="485" height="383" alt="image" src="https://github.com/user-attachments/assets/cb00f76f-c517-43a4-b80d-561ab4b1b0be" />
 </p>
 <p>
-Once PHP manger is done installing we can proceed to downloading the Rewrite Module.
+Once PHP manger is done installing we can proceed to downloading the Rewrite Module.</p>
 <br />
-<h2>Enabling IIS for CGI</h2>
 <p>
 <img width="735" height="468" alt="Screenshot 2025-11-30 195721" src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2" />
 </p>
