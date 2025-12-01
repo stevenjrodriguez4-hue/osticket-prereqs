@@ -14,7 +14,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2025 (Datacenter, Azure Edition)
+- Windows 11 (25H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows Server 2025 Azure Edition as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup. Next we will be connecting to the VM using Remote Desktop (RDP) using the public IP.
+I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows 11 pro as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup. Next we will be connecting to the VM using Remote Desktop (RDP) using the public IP.
 </p>
 <br />
 <h2>Connecting to the VM (RDP)</h2>
