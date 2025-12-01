@@ -110,7 +110,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  The last step in the setup is installing <strong>MySQL</strong>, which will be used to store all of osTicket’s data, including tickets, users, and system settings. Once that is done we will launch the MySQL Wizzard and use the stadard configuration.
+  The last step in the setup is installing <strong>MySQL</strong>, which will be used to store all of osTicket’s data, including tickets, users, and system settings. Once that is done we will launch the MySQL Wizzard and use the standard configuration.
 </p>
 
 <br>
