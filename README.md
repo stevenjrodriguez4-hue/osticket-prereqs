@@ -51,7 +51,7 @@ To run osTicket on Windows 11, we need to enable IIS and CGI/FastCGI so the syst
 <img width="776" height="476" alt="Screenshot 2025-11-30 181319" src="https://github.com/user-attachments/assets/3ffa3332-99f5-4291-ad76-00455ceb5695" />
 </p>
 <p>
-I created a new Resource Group named osticket in Microsoft Azure. After that, I deployed a Virtual Machine using Windows 11 pro as the operating system. During configuration, I selected a VM size that provides 2 vCPUs to ensure proper performance for the setup. Next we will be connecting to the VM using Remote Desktop (RDP) using the public IP.
+Next, we’ll download the files needed to set up osTicket. This link will provide you with the necceary downloads for osTicket https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0. Before installing anything else, we’ll start by installing PHP, since osTicket relies on PHP to run its web pages.
 </p>
 <br />
 <h2>Connecting to the VM (RDP)</h2>
