@@ -178,3 +178,9 @@ Navigate to C:\inetpub\wwwroot\osTicket\include, look for the file named [ost-sa
 
 <p>
 Okay, now we are going to assign the correct permissions to the ost-config.php file. We disable inheritance, remove the existing permissions, and grant Everyone full access so osTicket can complete the installation. This setup is only for a home lab environment and would not be used on a live or real-world server.
+</p>
+
+<br>
+
+<p>
+<img width="824" height="910" alt="image" src="https://github.com/user-attachments/assets/9a7949d3-60ae-4615-9f8c-60125802d6ec" />
