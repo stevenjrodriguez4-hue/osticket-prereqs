@@ -121,7 +121,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  We’re almost done, so before the final step, we need to install <strong>VC_redist.x86</strong>, which adds the necessary Visual C++ components that PHP and osTicket rely on.
+Here I am opening IIS as an administrator and registering PHP directly within IIS so it can run PHP files properly.
 </p>
 
 <br>
