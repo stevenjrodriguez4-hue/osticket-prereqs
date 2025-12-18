@@ -90,9 +90,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <img width="604" height="443" alt="image" src="https://github.com/user-attachments/assets/76d917b2-e8a6-49b8-8d81-db4eee51c754" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2" width="480" alt="Create PHP folder" />
-  <img src="https://github.com/user-attachments/assets/76d917b2-e8a6-49b8-8d81-db4eee51c754" width="480" alt="Extract PHP files" />
+  <img src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2"
+       height="300"
+       style="object-fit: contain;"
+       alt="Create PHP folder" />
+  <img src="https://github.com/user-attachments/assets/76d917b2-e8a6-49b8-8d81-db4eee51c754"
+       height="300"
+       style="object-fit: contain;"
+       alt="Extract PHP files" />
 </p>
+
 
 <p>
   Before continuing, we need a place to extract the PHP files. Go to your <strong>C:\ drive</strong> and create a new folder named <strong>PHP</strong>. We’ll use this folder to unzip the PHP package from the installation files so it’s ready for IIS to use during the osTicket setup.
