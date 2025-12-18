@@ -85,7 +85,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br>
 
-<div style="display:flex; gap:12px;">
+<div style="display:flex;">
   <img src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2"
        style="width:50%; height:320px; object-fit:cover;"
        alt="Create PHP folder" />
