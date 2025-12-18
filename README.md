@@ -128,11 +128,19 @@ Here I am opening IIS as an administrator, registering PHP within IIS, and then 
 
 <p>
  <img width="977" height="564" alt="Screenshot 2025-12-17 170850" src="https://github.com/user-attachments/assets/80fa9a82-e65d-4d2b-af56-e708d2ffd392" />
-
 </p>
 
 <p>
-  The last step in the setup is installing <strong>MySQL</strong>, which will be used to store all of osTicket’s data, including tickets, users, and system settings.
+  Here I unzipped the osTicket installation files, copied the upload folder into C:\inetpub\wwwroot, and then renamed the folder to osTicket so the application could be accessed through IIS.
 </p>
 
 <br>
+
+<p>
+  <img width="845" height="668" alt="image" src="https://github.com/user-attachments/assets/65bef6d3-bf82-46d1-9757-94ed5b70efea" />
+  <img width="845" height="668" alt="Screenshot 2025-12-18 083112" src="https://github.com/user-attachments/assets/f5948bd1-ce48-4b58-84da-530b8ee861c8" />
+</p>
+
+ <p>
+
+ 
