@@ -136,10 +136,6 @@ Here I am opening IIS as an administrator, registering PHP within IIS, and then 
 
 <br>
 
-<p>
-  <img width="842" height="643" alt="Screenshot 2025-12-18 082943" src="https://github.com/user-attachments/assets/3c878f11-bf61-4c61-a4a5-902941476414" />
-  <img width="845" height="668" alt="Screenshot 2025-12-18 083112" src="https://github.com/user-attachments/assets/f5948bd1-ce48-4b58-84da-530b8ee861c8" />
-</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c878f11-bf61-4c61-a4a5-902941476414" width="480" alt="Screenshot 2025-12-18 082943" />
   <img src="https://github.com/user-attachments/assets/f5948bd1-ce48-4b58-84da-530b8ee861c8" width="480" alt="Screenshot 2025-12-18 083112" />
