@@ -91,11 +91,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2"
-       height="300"
+       height="350"
        style="object-fit: contain;"
        alt="Create PHP folder" />
   <img src="https://github.com/user-attachments/assets/76d917b2-e8a6-49b8-8d81-db4eee51c754"
-       height="300"
+       height="350"
        style="object-fit: contain;"
        alt="Extract PHP files" />
 </p>
