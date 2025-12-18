@@ -172,7 +172,7 @@ Navigate to C:\inetpub\wwwroot\osTicket\include, look for the file named [ost-sa
 <br>
 
 <p>
-<img width="906" height="595" alt="Screenshot 2025-12-18 101003" src="https://github.com/user-attachments/assets/b00c1110-ed5c-4557-a88f-d49c08e40885" />
+<img width="906" height="588" alt="Screenshot 2025-12-18 101336" src="https://github.com/user-attachments/assets/409eff2d-dc81-4387-b9ff-a7c7a23f14aa" />
 </p>
 
 <p>
