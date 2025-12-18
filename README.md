@@ -121,7 +121,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-Here I am opening IIS as an administrator and registering PHP directly within IIS so it can run PHP files properly.
+Here I am opening IIS as an administrator, registering PHP within IIS, and then restarting IIS to apply the changes.
 </p>
 
 <br>
