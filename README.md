@@ -86,13 +86,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br>
 
 <p>
-<img src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2"
-     width="49%"
-     alt="Create PHP folder" />
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/e2195eb0-2cfa-4918-8603-a429a4fb6ef2" width="100%" alt="Create PHP folder">
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/76d917b2-e8a6-49b8-8d81-db4eee51c754" width="100%" alt="Extract PHP files">
+    </td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/76d917b2-e8a6-49b8-8d81-db4eee51c754"
-     width="49%"
-     alt="Extract PHP files" />
 </p>
 
 <p>
