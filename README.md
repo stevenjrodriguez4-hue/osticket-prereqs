@@ -173,7 +173,6 @@ Navigate to C:\inetpub\wwwroot\osTicket\include, look for the file named [ost-sa
 
 <p>
 <img width="906" height="585" alt="Screenshot 2025-12-18 101003" src="https://github.com/user-attachments/assets/933d2f86-6b26-41c6-98d4-3b4a2a2b4c3d" />
-
 </p>
 
 <p>
@@ -184,3 +183,7 @@ Okay, now we are going to assign the correct permissions to the ost-config.php f
 
 <p>
 <img width="824" height="910" alt="image" src="https://github.com/user-attachments/assets/9a7949d3-60ae-4615-9f8c-60125802d6ec" />
+</p>
+
+<p>
+Okay, now we complete the osTicket installation.After filling in the system and admin information, we connect osTicket to the MySQL database. HeidiSQL was used earlier to create and confirm the database and user needed for this installation.
