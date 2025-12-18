@@ -157,3 +157,13 @@ Here I am opening IIS as an administrator, registering PHP within IIS, and then 
 
 <p>
 Okay, now we are going to enable the required PHP extensions in IIS.These extensions are needed for osTicket to work correctly. php_intl helps with language support, php_imap allows email processing, and php_opcache improves performance.
+</p>
+
+<br>
+
+<p>
+<img width="1104" height="526" alt="Screenshot 2025-12-18 095610" src="https://github.com/user-attachments/assets/e7f5a72d-2d95-48a0-a41b-701de0a1b219" />
+</p>
+
+<p>
+Navigate to C:\inetpub\wwwroot\osTicket\include, look for the file named [ost-sampleconfig.php] and rename it to [ost-config.php].
